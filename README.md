@@ -14,7 +14,7 @@ MT-LIFT provides a rich dataset comprising of extensive feature and label inform
 - Joint modeling of click and conversion.
 
 Compared with other datasets, MT-LIFT has the following advantages:
-- ✅ We collected it from an unbiased treatment assignment, ensuring that the treatment solely influences user response changes.
+- ✅ We collected it from an unbiased treatment assignment, ensuring that the user response changes is solely influenced by the treatment.
 - ✅ It has abundant features and provides ample opportunities for various algorithms to extract valuable insights.
 - ✅ It has multiple treatments, offering additional information for modeling uplift and exploring the effects of differential interventions.
 - ✅ We collected it from the impression space, including comprehensive chain information for accurate analysis of user responses.
