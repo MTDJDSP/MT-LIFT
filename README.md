@@ -21,7 +21,7 @@ If you find it helpful, please cite our paper:
  [![LINK](https://img.shields.io/badge/-Paper%20Link-lightgrey)](https://arxiv.org/submit/5387809/view)
 
 ```
-@inproceedings{gao2022kuairand,
+@inproceedings{huang2024,
   title = {Entire Chain Uplift Modeling with Context-Enhanced Learning for Intelligent Marketing},
   author = {Yinqiu Huang, Shuli Wang, Min Gao, Xue Wei, Changhao Li, Chuan Luo, Yinhua Zhu, Xiong Xiao and Yi Luo	},
   doi = {10.1145/3511808.3557624}
