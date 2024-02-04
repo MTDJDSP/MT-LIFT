@@ -32,8 +32,8 @@ If you find it helpful, please cite our paper:
 
 ## Data Descriptions
 
-The file structure of the three datasets is listed as follows:
-##### KuaiRand-27K (46GB)
+The file structure of the dataset is listed as follows:
+##### MT-LIFT   (46GB)
 
   ```shell
   MT-LIFT
