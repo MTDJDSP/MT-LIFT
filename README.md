@@ -36,16 +36,6 @@ The file structure of the three datasets is listed as follows:
 ##### KuaiRand-27K (46GB)
 
   ```shell
-  KuaiRand-27K
-  ├── data (46GB)
-  │   ├── log_random_4_22_to_5_08_27k.csv (83MB)
-  │   ├── log_standard_4_08_to_4_21_27k_part1.csv (4.8GB)
-  │   ├── log_standard_4_08_to_4_21_27k_part2.csv (4.8GB)
-  │   ├── log_standard_4_22_to_5_08_27k_part1.csv (6.6GB)
-  │   ├── log_standard_4_22_to_5_08_27k_part2.csv (6.6GB)
-  │   ├── user_features_27k.csv (3.4MB)
-  │   ├── video_features_basic_27k.csv (2.6GB)
-  │   ├── video_features_statistic_27k_part1.csv (6.7GB)
-  │   ├── video_features_statistic_27k_part2.csv (6.7GB)
-  │   └── video_features_statistic_27k_part3.csv (6.7GB)
-  └── load_data_27k.py
+  MT-LIFT
+  ├── train.csv (46GB)
+  └── test.csv  (46GB)
