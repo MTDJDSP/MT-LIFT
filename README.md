@@ -39,5 +39,15 @@ The file structure of the dataset is listed as follows:
   MT-LIFT
   ├── train.csv (8.64GB)
   └── test.csv  (1.85GB)
+  ```
 
-Description of the fields：
+Data fields:
+There are 102 fields in total, of which 99 are features(f0~f98).
+  ```shell
+     click
+     conversion
+     treatment
+     f0
+     ...
+     f98
+  ```
