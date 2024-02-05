@@ -6,7 +6,7 @@ To eliminate the impact of confounding factors on uplift modeling, we collect it
 
 You can download the dataset from the [Google drive](https://drive.google.com/file/d/1dslFa9EGrVVoO_040ZYM16cIH-SKDuss/view?usp=drive_link) | [Baidu drive](https://pan.baidu.com/s/1YmE5g-Y71ULNptiWqpToPA?pwd=06nb).
 
-MT-LIFT provides a rich dataset comprising of extensive feature and label information, making it a valuable resource for various research areas. It particularly supports the following research objectives:
+MT-LIFT comprising of extensive feature and label information, making it a valuable resource for various research areas. It particularly supports the following research objectives:
 
 - Click-through rate (CTR) prediction.
 - Conversion rate (CVR) prediction.
