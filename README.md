@@ -35,12 +35,12 @@ If you find it helpful, please cite our paper:
 ## Data Descriptions
 
 The file structure of the dataset is listed as follows:
-##### MT-LIFT   (10.49GB)
+##### MT-LIFT  
 
   ```shell
   MT-LIFT
-  ├── train.csv (8.64GB)
-  └── test.csv  (1.85GB)
+  ├── train.csv 
+  └── test.csv  
   ```
 
 Data fields:
