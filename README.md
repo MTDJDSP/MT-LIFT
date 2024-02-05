@@ -4,8 +4,7 @@
 ## Overview:
 To eliminate the impact of confounding factors on uplift modeling, we collect it from randomized controlled trials, where treatments were randomly assigned to ensure consistent potential distribution between the treatment and control groups. To protect data privacy, we have implemented both anonymization and desensitization techniques on the features. 
 
-You can download the dataset from the [Google drive](https://drive.google.com/file/d/18Zj-TW-MP_ntbiru6nRBseMxSwCKB3zq/view?usp=drive_link).
-
+You can download the dataset from the [Google drive](https://drive.google.com/file/d/18Zj-TW-MP_ntbiru6nRBseMxSwCKB3zq/view?usp=drive_link) | [Baidu drive](https://pan.baidu.com/s/1YmE5g-Y71ULNptiWqpToPA?pwd=06nb).
 MT-LIFT provides a rich dataset comprising of extensive feature and label information, making it a valuable resource for various research areas. It particularly supports the following research objectives:
 
 - Click-through rate (CTR) prediction.
