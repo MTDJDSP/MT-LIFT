@@ -10,9 +10,9 @@ MT-LIFT comprising of extensive feature and label information, making it a valua
 
 - Click-through rate (CTR) prediction.
 - Conversion rate (CVR) prediction.
+- Joint modeling.
 - Uplift modeling.
-- Joint modeling of click and conversion.
-
+  
 Compared with other datasets, MT-LIFT has the following advantages:
 - ✅ We collected it from an unbiased treatment assignment, ensuring that the user response changes is solely influenced by the treatment.
 - ✅ It has abundant features and provides ample opportunities for various algorithms to extract valuable information.
