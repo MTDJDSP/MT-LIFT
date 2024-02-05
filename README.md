@@ -14,7 +14,7 @@ MT-LIFT comprising of extensive feature and label information, making it a valua
 - Uplift modeling.
   
 Compared with other datasets, MT-LIFT has the following advantages:
-- ✅ We collected it from an unbiased treatment assignment, ensuring that the user response changes is solely influenced by the treatment.
+- ✅ We collected it from an unbiased treatment assignment, ensuring consistent potential distribution between the treatment and control groups.
 - ✅ It has abundant features and provides ample opportunities for various algorithms to extract valuable information.
 - ✅ It has multiple treatments for exploring the effects of differential interventions.
 - ✅ We collected it from the impression space, including comprehensive chain information for accurate analysis of user responses.
