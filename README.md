@@ -20,13 +20,14 @@ Compared with other datasets, MT-LIFT has the following advantages:
 - ✅ We collected it from the impression space, including comprehensive chain information for accurate analysis of user responses.
 
 If you find it helpful, please cite our paper:
- [![LINK](https://img.shields.io/badge/-Paper%20Link-lightgrey)](https://arxiv.org/submit/5387809/view)
+ [![LINK](https://img.shields.io/badge/-Paper%20Link-lightgrey)](https://arxiv.org/abs/2402.03379)
 
 ```
-@inproceedings{huang2024,
-  title = {Entire Chain Uplift Modeling with Context-Enhanced Learning for Intelligent Marketing},
-  author = {Yinqiu Huang, Shuli Wang, Min Gao, Xue Wei, Changhao Li, Chuan Luo, Yinhua Zhu, Xiong Xiao and Yi Luo},
-  doi = {10.1145/3511808.3557624}
+@article{huang2024entire,
+  title={Entire Chain Uplift Modeling with Context-Enhanced Learning for Intelligent Marketing},
+  author={Huang, Yinqiu and Wang, Shuli and Gao, Min and Wei, Xue and Li, Changhao and Luo, Chuan and Zhu, Yinhua and Xiao, Xiong and Luo, Yi},
+  journal={arXiv preprint arXiv:2402.03379},
+  year={2024}
 }
 ```
 ----
