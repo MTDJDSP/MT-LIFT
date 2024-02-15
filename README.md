@@ -36,7 +36,6 @@ If you find it helpful, please cite our paper:
 ## Data Descriptions
 
 The file structure of the dataset is listed as follows:
-##### MT-LIFT  
 
   ```shell
   MT-LIFT
@@ -54,7 +53,7 @@ There are 102 fields in total, of which 99 are features(f0~f98).
   | conversion     | The conversion label.                                        | 
   | treatment      | The treatment label. In the range of [0, 4].                 |
   | f0-f98         | The features.                                                |
-
+  ```
 
 The statistics of MT-LIFT:
 
