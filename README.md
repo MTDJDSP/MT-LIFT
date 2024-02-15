@@ -57,9 +57,9 @@ There are 102 fields in total, of which 99 are features(f0~f98).
 
 
 The statistics of MT-LIFT:
+
   ```
-  
-  | size           | 5,541,842.                                                    | 
+  | size           | 5,541,842.                                                   | 
   | Features       | 99.                                                          | 
   | treatment      | The treatment label. In the range of [0, 4]                  |
   | f0-f98         | The features.                                                | 
