@@ -65,6 +65,6 @@ The statistics of MT-LIFT:
   | Average Visit/Click Uplift           | 13.49%.                                |
   | Relative Average Conversion Uplift   | 169.23%.                               |
   | Average Conversion Uplift            | 5.19%.                                 |
-
+  ```
 
 
