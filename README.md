@@ -2,7 +2,7 @@
 *MT-LIFT* is a large-scale and unbiased dataset collected from two months of coupon marketing scenarios for food delivery in the Meituan App, [Meituan (美团)](https://www.meituan.com).  **It is the first unbiased industrial dataset featuring multiple treatments and comprehensive chain labels (click and conversion) information!** 
 
 ## Overview:
-To eliminate the impact of confounding factors on uplift modeling, we collect it from randomized controlled trials, where treatments were randomly assigned to ensure consistent potential distribution between the treatment and control groups. To protect data privacy, we have implemented both anonymization and desensitization techniques on the features. 
+To eliminate the impact of confounding factors on uplift modeling, we collect it from randomized controlled trials, where treatments (coupons) were randomly assigned to ensure consistent potential distribution between the treatment and control groups. To protect data privacy, we have implemented both anonymization and desensitization techniques on the features. 
 
 You can download the dataset from the [Google drive](https://drive.google.com/file/d/1dslFa9EGrVVoO_040ZYM16cIH-SKDuss/view?usp=drive_link) | [Baidu drive](https://pan.baidu.com/s/1YmE5g-Y71ULNptiWqpToPA?pwd=06nb).
 
