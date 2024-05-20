@@ -23,10 +23,11 @@ If you find it helpful, please cite our paper:
  [![LINK](https://img.shields.io/badge/-Paper%20Link-lightgrey)](https://arxiv.org/abs/2402.03379)
 
 ```
-@article{huang2024entire,
+@inproceedings{huang2024entire,
   title={Entire Chain Uplift Modeling with Context-Enhanced Learning for Intelligent Marketing},
   author={Huang, Yinqiu and Wang, Shuli and Gao, Min and Wei, Xue and Li, Changhao and Luo, Chuan and Zhu, Yinhua and Xiao, Xiong and Luo, Yi},
-  journal={arXiv preprint arXiv:2402.03379},
+  booktitle={Companion Proceedings of the ACM on Web Conference 2024},
+  pages={226--234},
   year={2024}
 }
 ```
